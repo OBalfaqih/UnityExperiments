@@ -1,8 +1,8 @@
 <h1>Ragdoll Controller</h1>
 <p>This is the first episode in the "Unity Experiments" series.</p>
-<p>I'll sharing with you a script to toggle ragdoll mode on and off. When toggling it off, the character will return to its last pose.</p>
+<p>I'll be sharing with you a script to toggle ragdoll mode on and off. When toggling it off, the character will return to its last pose.</p>
 <h2>How to Use:</h2>
-<p>There are two ways, you can either download or clone the project files. Or, you can get the script "RagdollController.cs" and use it on your existing character.</p>
+<p>There are two ways, you can either download or clone the project files. Or, you can get the <a href="https://github.com/OBalfaqih/UnityExperiments/blob/master/RagdollController/Assets/RagdollDemo/Scripts/RagdollController.cs">script "RagdollController.cs"</a> and use it on your existing character.</p>
 <p>If you decided to use the script, go through these steps:</p>
 <ul>
 	<li>Attach the script to a ragdoll character that has an <i>Animator</i> component as well.</li>
